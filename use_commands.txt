@@ -1,0 +1,10 @@
+git log --graph --all
+
+# リモートのmasterブランチから情報持ってくる
+git pull origin master
+
+#ブランチ操作
+git branch
+# -a 全部表示
+# -v ローカルブランチ表示
+# -r リモートブランチ表示
