@@ -8,3 +8,6 @@ git branch
 # -a 全部表示
 # -v ローカルブランチ表示
 # -r リモートブランチ表示
+
+#これを使いたい
+git push -u origin main
